@@ -1,0 +1,33 @@
+javascript bangla tutorial 4  Keyword, Data Type and comment
+=============================================================
+### Keywords in javascript
+=====================
+Keywords are tokens that have special meaning in JS.
+
+<!-- Keywords must small letters -->
+
+break, case, catch, continue, debugger, default, delete
+do, else, finally, for, function, if, in, instanceeof, new,
+return, switch, this, throw, try, type of, var, void, while,
+with. 
+
+### Data Types
+===============
+1. String  ==> ""   "Rahim" is a string with quatation
+2. Number  ==> 123, 123.34 
+3. Boolean ==> 2 Values true or false, 
+4. Objects 
+
+========================================
+<body>
+    <script>
+        document.write("Name: Priyaty </br>")
+        document.write("Number: 017100000000 </br>")
+        document.write("Country: BD </br>")
+
+        // this is comment 
+        // document.write("Hobby: Travelling")
+    </script>
+</body>
+
+
